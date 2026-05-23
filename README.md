@@ -4,49 +4,47 @@
 
 </div>
 
----
+
 
 <p align="center">
   <img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="1000">
 </p>
 
----
+
 
 <div align="center">
 
-```txt
+txt
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
 ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
 ███████║███████║██║     █████╔╝ █████╗  ██████╔╝
 ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
 ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+
 
 </div>
 
 ---
 
-# ```console
+console
 root@peror404:~$ whoami
-```
 
-```console
+console
 Harshit Pathak
 
 Cybersecurity Student
 Ethical Hacking Enthusiast
 Web Security Researcher
 Reverse Engineering Learner
-```
 
----
 
-# ```console
+
+#console
 root@peror404:~$ skills --show
-```
 
-```console
+
+console
 [+] Linux
 [+] Python
 [+] JavaScript
@@ -55,48 +53,42 @@ root@peror404:~$ skills --show
 [+] Web Exploitation
 [+] Reverse Engineering
 [+] OSINT
-```
 
----
 
-# ```console
+
+console
 root@peror404:~$ sudo access
-```
 
-```console
+console
 [sudo] password for root:
 ACCESS GRANTED
-```
+
 
 ---
 
-# ```console
+console
 root@peror404:~$ cat current_mission.txt
-```
 
-```console
+
+console
 > Learning Web Application Security
 > Building Security Projects
 > Solving CTF Challenges
 > Exploring Reverse Engineering
 > Improving Red Team Skills
-```
 
----
 
-# ```console
+console
 root@peror404:~$ systemctl status user
-```
 
-```console
+console
 ● harshit.service - Cyber Operations
      Loaded: loaded
      Active: active (running)
      Status: ONLINE
      Threat Level: HIGH
-```
 
----
+
 
 <div align="center">
 
@@ -114,13 +106,12 @@ root@peror404:~$ systemctl status user
 
 </div>
 
----
 
-# ```console
+console
 root@peror404:~$ tree repositories/
-```
 
-```console
+
+console
 .
 ├── web-pentest-notes
 ├── ctf-writeups
@@ -129,21 +120,19 @@ root@peror404:~$ tree repositories/
 ├── custom-recon-tools
 ├── java-0-to-hero
 └── portfolio
-```
 
----
 
-# ```console
+
+
+console
 root@peror404:~$ connect --social
-```
 
-```console
+
+console
 LinkedIn  : linkedin.com/in/harshit-kumar-pathak-9991072a7
 TryHackMe : tryhackme.com/p/Mr.Pathak
 GitHub    : github.com/peror404
-```
 
----
 
 <div align="center">
 
@@ -151,15 +140,15 @@ GitHub    : github.com/peror404
 
 </div>
 
----
+
 
 <div align="center">
 
-```txt
+txt
 [ ACCESS GRANTED ]
 [ ENCRYPTION ENABLED ]
 [ CONNECTION SECURED ]
-```
+
 
 <img src="https://komarev.com/ghpvc/?username=peror404&label=VISITORS&color=00ff41&style=flat"/>
 
