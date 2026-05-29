@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_AVATAR_LINK" width="220" style="border-radius:50%" />
+<img src="https://github.com/peror404.png" width="220" />
 
 # Harshit Kumar Pathak
 
@@ -122,13 +122,11 @@ Cyber Security Intern
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=peror404&theme=github-dark" />
 
 </p>
-## > connect
+##  > connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit-kumar-pathak-9991072a7)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme)](YOUR_TRYHACKME)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/peror404)
 
 ---
 
