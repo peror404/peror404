@@ -97,7 +97,7 @@ Cyber Security Intern
 
 ---
 
-## > currently_learning
+## > Proficiency in Progress
 
 ```bash
 [*] Malware Analysis
@@ -113,16 +113,15 @@ Cyber Security Intern
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=peror404&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=peror404&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=peror404&theme=github-dark-blue" />
 
 </p>
 
----
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=peror404&theme=github-dark" />
+
+</p>
 ## > connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
