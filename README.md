@@ -1,19 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/peror404.png" width="220" />
-
 # Harshit Kumar Pathak
 
 ### CEH Certified | Security Researcher | Cyber Security Student | CTF Player
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Security+Researcher;CTF+Player;Reverse+Engineering+Enthusiast;Malware+Analysis+Learner" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Cyber_Security-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green"/>
-  <img src="https://img.shields.io/badge/CTF_Player-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Security_Researcher-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=purple"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Securing+Systems+One+Step+at+a+Time;Reverse+Engineering+%7C+Malware+Analysis;CTF+Player+%7C+Security+Researcher;Always+Learning+Always+Improving" />
 
 </div>
 
