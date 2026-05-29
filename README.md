@@ -4,7 +4,7 @@
 
 ### CEH Certified | Security Researcher | Cyber Security Student | CTF Player
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Securing+Systems;Breaking+Systems+to+Understand+Them;Protecting+Systems+to+Improve+Them;Pentester;Bug+Hunter;Reverse+Engineering+%7C+Malware+Analysis;CTF+Player+%7C+Security+Researcher;Always+Learning+Always+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E6B566&center=true&vCenter=true&width=900&lines=Securing+Systems;Breaking+Systems+to+Understand+Them;Protecting+Systems+to+Improve+Them;Pentester;Bug+Hunter;Reverse+Engineering+%7C+Malware+Analysis;CTF+Player+%7C+Security+Researcher;Always+Learning+Always+Improving" />
 
 </div>
 
