@@ -5,6 +5,9 @@
 # Harshit Kumar Pathak
 
 ### CEH Certified | Security Researcher | Cyber Security Student | CTF Player
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Security+Researcher;CTF+Player;Reverse+Engineering+Enthusiast;Malware+Analysis+Learner" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Cyber_Security-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green"/>
